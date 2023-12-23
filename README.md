@@ -10,9 +10,15 @@ The goal of the project is to train "agents" (or sweepers, or dot-collectors, or
 
 Watch the videos of them working here:
 
-https://clipchamp.com/watch/zom98xap3rh: Gen 100 clip
 
-https://clipchamp.com/watch/LOsXtk85yCS: Gen 0 clip
+https://github.com/ihop26/dot-collector/assets/128655862/a63c5082-90cb-4b5d-888d-3ffd82d62008
+
+
+https://github.com/ihop26/dot-collector/assets/128655862/e11bb4c5-cae0-4733-bfc2-c75b10774509
+
+
+
+(clipchamp stopped working, they should be attached)
 
 # Details of Classes:
 
